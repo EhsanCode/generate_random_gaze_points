@@ -1,2 +1,2 @@
-# generate_random_gaze_points
+# Dummy Gaze Points Generator
 Scripts to generate random gaze points
